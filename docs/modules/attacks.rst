@@ -12,6 +12,11 @@ DeepFool
 .. autoclass:: DeepFool
    :members:
 
+Elastic Net Method
+-------------------------
+.. autoclass:: ElasticNetMethod
+   :members:
+
 Fast Gradient Method
 --------------------
 .. autoclass:: FastGradientMethod

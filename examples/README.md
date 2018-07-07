@@ -1,7 +1,10 @@
 # ART Examples
 
 [mnist_cnn_fgsm.py](mnist_cnn_fgsm.py)
-Trains a convolutional neural network on MNIST, then crafts FGSM attack examples on it.
+Trains a convolutional neural network on MNIST, then crafts adversarial examples on it using FGSM.
+
+[mnist_cnn_ead.py](mnist_cnn_ead.py)
+Trains a convolutional neural network on MNIST, then crafts adversarial examples on it using EAD.
 
 [mnist_transferability.py](mnist_transferability.py)
 Trains a convolutional neural network on the MNIST dataset using the Keras backend, then generates adversarial images using DeepFool
