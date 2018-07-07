@@ -14,6 +14,7 @@ The Adversarial Robustness Toolbox contains implementations of the following att
 * Universal Perturbation ([Moosavi-Dezfooli et al., 2016](https://arxiv.org/abs/1610.08401))
 * Virtual Adversarial Method ([Moosavi-Dezfooli et al., 2015](https://arxiv.org/abs/1507.00677))
 * C&amp;W Attack ([Carlini and Wagner, 2016](https://arxiv.org/abs/1608.04644))
+* Elastic Net Method ([Chen et al., 2017](https://arxiv.org/abs/1709.04114))
 * NewtonFool ([Jang et al., 2017](http://doi.acm.org/10.1145/3134600.3134635))
 
 The following defense methods are also supported:
